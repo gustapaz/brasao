@@ -1,0 +1,20 @@
+{
+  "name": "brasao",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Combate tático de cartas contra três guardiões originais.",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "vue": "3.5.44"
+  },
+  "devDependencies": {
+    "vite": "8.3.5",
+    "@vitejs/plugin-vue": "6.0.10"
+  }
+}
