@@ -4,6 +4,8 @@
 
 **[Jogar gratuitamente](https://gustapaz.github.io/brasao/)**
 
+![Brasão publicado: A Soberana e uma mão de cartas ilustradas](docs/public-gameplay.png)
+
 ## À mesa
 
 Você recebe cinco cartas e 3 de fôlego a cada turno. Clique/toque em uma carta ou navegue com Tab e use Enter/Espaço. O custo está no canto. **Encerrar turno** executa a intenção adversária que está visível e renova a mão. **P** pausa; Escape fecha a pausa ou as regras.
